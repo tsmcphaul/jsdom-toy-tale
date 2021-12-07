@@ -71,6 +71,12 @@
       "image": "https://api.time.com/wp-content/uploads/2020/11/TFK_ToyGuide_Squeakee_v2.jpg",
       "likes": 0,
       "id": 12
+    },
+    {
+      "name": "PS5",
+      "image": "https://www.nme.com/wp-content/uploads/2020/06/ps5-credit-sie@2000x1270.jpg",
+      "likes": 3,
+      "id": 13
     }
   ]
 }
